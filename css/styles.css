@@ -338,6 +338,7 @@ header {
 #logo {
 	float: left;
 	padding: 5px 0px 5px 20px;
+    cursor: pointer;
 }
 
 #nav {
@@ -384,6 +385,28 @@ header {
 	position: relative;
 	margin: 0px auto;
 	width: 980px;
+    display: none;
+}
+
+.close {
+    border-radius: 5px;
+    width: 25px;
+    height: 25px;
+    background-image: url(../img/textures/close.png);
+    box-shadow: 0px 0px 4px #899284;
+    right: 10px;
+    top: 10px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.close:hover {
+    box-shadow: 0px 0px 2px #899284;
+}
+
+.close:active {
+    box-shadow: 0px 0px 2px #899284;
+    box-shadow: inset 0px 0px 6px #687363;
 }
 
 #menu_nav {
@@ -396,9 +419,18 @@ header {
 	padding: 120px 0px 0px;
 }
 
-.menu_top li {
+.menu_top li, .menu_sub li {
 	display: inline;
 	padding: 0px 10px;
+    cursor: pointer;
+}
+
+.menu_top li:hover, .menu_sub li:hover {
+    text-shadow: 0px 0px 2px #acb9a6;
+}
+
+.menut_top li:active {
+    cursor: #68853f;
 }
 
 .menu_top {
@@ -410,10 +442,6 @@ header {
 	background-repeat: no-repeat;
 }
 
-.menu_sub li {
-    display: inline;
-    padding: 0px 10px;
-}
 
 .menu_sub {
     text-align: center;
@@ -443,7 +471,12 @@ header {
 }
 
 .menu_desc p {
+    clear: both;
     padding: 10px 0px 10px 30px; 
+}
+
+.menu_desc h4 {
+    float: left;
 }
 
 .menu_desc {
@@ -460,7 +493,9 @@ header {
     vertical-align: text-top;
 }
 
-
+.chilli {
+    padding-left: 20px; 
+}
 
 
 
