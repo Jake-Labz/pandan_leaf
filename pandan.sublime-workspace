@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"but",
+				"butterfly"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"arrow",
+				"arrow_box"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"conts",
+				"contstwo"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padin",
+				"padding-bottom"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"te",
+				"textures"
+			],
+			[
+				"ho",
+				"hospital_m"
+			],
+			[
+				"gy",
+				"gym_m"
+			],
+			[
+				"sch",
+				"school_m"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"content",
+				"content"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"sa",
+				"SourceSansProSemibold"
+			],
+			[
+				"lo",
+				"LondrinaSolidRegular"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"r",
+				"repeat"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"contact",
+				"contact-area"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"b",
+				"border-width"
+			],
+			[
+				"mou",
+				"mouseleave"
+			],
+			[
+				"cont",
+				"contactus"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"fa",
+				"fadeTo"
+			],
+			[
+				"g",
+				"gym"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"background-c",
+				"background-clip"
+			],
+			[
+				"bed",
+				"bedge_grunge"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"png",
+				"png"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"on",
+				"onecol_inner"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"sha",
+				"m_shaddow_2"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"con",
+				"contactus"
+			],
+			[
+				"20px",
+				"20px"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"sk",
+				"sky"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"sou",
+				"SourceSansProSemibold"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"hea",
+				"head	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Web Sites/Nourish/contactengine.php",
+		"/D/Web Sites/Nourish/js/js.js",
+		"/D/Web Sites/Nourish/css/styles.css",
+		"/D/Web Sites/Nourish/index.html",
+		"/C/Users/Labz/Documents/GitHub/jakelabz/css/styles.css",
+		"/D/Web Sites/Nourish_holding/styles.css",
+		"/C/wamp/www/Nourish/contactengine.php",
+		"/D/Web Sites/Nourish/js/marker.js",
+		"/D/Web Sites/Nourish/js/jquery.js",
+		"/C/Users/Labz/Documents/GitHub/Nourish/index.html",
+		"/C/Users/Labz/Documents/GitHub/Nourish/js/marker.js",
+		"/C/Users/Labz/Documents/GitHub/Nourish/css/styles.css",
+		"/C/Users/Labz/Documents/GitHub/jakelabz/index.html",
+		"/C/wamp/www/validation/demo/js/chili-1.7.pack.js",
+		"/C/wamp/www/validation/demo/css/cmxform.css",
+		"/C/wamp/www/validation/demo/index.html",
+		"/C/wamp/www/validation/demo/css/screen.css",
+		"/C/Users/Labz/AppData/Local/Temp/Rar$DRa0.647/demo/index.html",
+		"/C/Users/Labz/AppData/Local/Temp/Rar$DIa0.469/grunt.js",
+		"/C/Users/Labz/AppData/Local/Temp/Rar$DRa0.464/Nourish/index.html",
+		"/D/Web Sites/Nourish/js/scroll.js",
+		"/D/Web Sites/Aptana 3 Workspace/web_jlcdesign/css/styles.css",
+		"/C/Users/Labz/AppData/Local/Temp/Rar$DRa0.941/Nourish/contactengine.php",
+		"/D/Web Sites/Aptana 3 Workspace/web_jlcdesign/index.html",
+		"/D/Web Sites/Aptana 3 Workspace/JLCDesign/couch/snippets/footer.html",
+		"/D/Web Sites/Aptana 3 Workspace/JLCDesign/couch/snippets/contact_me.html",
+		"/D/Web Sites/Aptana 3 Workspace/JLCDesign/index.php",
+		"/D/Web Sites/Aptana 3 Workspace/JLCDesign/contact.php",
+		"/D/Web Sites/Nourish/js/jquery.scrollTo-1.4.3.1-min.js",
+		"/D/Web Sites/Nourish/contactthanks.php",
+		"/C/Users/Labz/AppData/Local/Temp/Rar$DRa0.399/NiceSimpleContactForm/style.css",
+		"/C/Users/Labz/AppData/Local/Temp/Rar$DRa0.444/NiceSimpleContactForm/index.html",
+		"/D/Web Sites/Nourish/css/style.css",
+		"/C/Users/Labz/Desktop/styles.css",
+		"/D/Web Sites/Aptana 3 Workspace/web_jlcdesign/js/arrow.js",
+		"/D/Web Sites/Nourish/css/keyframe.css",
+		"/D/Web Sites/Aptana 3 Workspace/Nourish/css/styles.css",
+		"/C/Users/Labz/AppData/Local/Temp/Rar$DRa0.675/tutorial-source-files/tut-index.html",
+		"/D/Web Sites/Nourish/js/scrollto.js",
+		"/D/Web Sites/Aptana 3 Workspace/Nourish/index.html",
+		"/D/Web Sites/test/index.html",
+		"/D/Web Sites/Nourish/css/fonts.css",
+		"/D/Web Sites/Nourish/js/jquery-1.8.3.min.js",
+		"/D/Web Sites/Nourish/css/scroll.js",
+		"/D/Web Sites/webfonts/sourcesanspro/stylesheet.css",
+		"/D/Web Sites/Nourish/css/webfonts/sourcesanspro/fonts.css",
+		"/D/Web Sites/Aptana 3 Workspace/Nourish/css/fonts.css",
+		"/D/Web Sites/Nourish/css/webfonts/sourcesanspro/stylesheet.css",
+		"/D/Web Sites/Nourish/fonts/londrina/stylesheet.css",
+		"/D/Web Sites/Nourish/fonts/sourcesanspro/stylesheet.css",
+		"/D/Web Sites/webfonts/londrina/stylesheet.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<button>ContactUs</button>",
+			"<img src=\"img/textures/x.png\">",
+			"img src=\"img/textures/x.png\"",
+			"Create awareness for charities and promoting a healthy lifestyle via digital advertising ",
+			"The Nourish Group will:",
+			"box\n",
+			"shaddow\n",
+			"shadow\n",
+			"box-shaddow\n",
+			";\n",
+			"48px",
+			"60px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<div class=\"button\">ContactUs</div>",
+			"<img src=\"img/textures/x.png\" alt=\"x\">",
+			"img src=\"img/textures/x.png alt=\"x\"",
+			"Promote healthy living initiatives and create awareness for charities via digital advertising",
+			"A Nourish machine will:",
+			"article"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
